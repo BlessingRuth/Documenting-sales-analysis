@@ -11,5 +11,15 @@ Sales data:The primary dataset used  for this analysis is "LITA Dataset.Xslx" fi
 ### Tools used 
 
 - Excel - Data cleaning and Analysis [Download here] (https://www.microsoft.com/en-ng/)
-- Sql Server - Data Analysis
-- Powerbi - Creating Reports 
+- Sql Server - Data Analysis [Download here] (
+- Powerbi - Creating Reports - [Download here] (
+
+  ### Data cleaning/Preparation
+
+  In the initial data preparation phase, we performed the following task:
+  1. Data loading/Inspection
+  2. Delete duplicate data
+  3. checked for missing values
+  4. Data cleaning 
+  
+  
