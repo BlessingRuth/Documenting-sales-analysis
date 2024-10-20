@@ -1,2 +1,5 @@
-# Documenting-sales-analysis
-This repository serves as a comprehensive resource for documenting sales analysis, giving insights and methodologies to improve sales performance
+# Lita Sales Analysis 
+
+### Project Overview 
+
+This Repository serves as a comprehensive reaource for documenting sales analysis, focusing on insights and methodologies to improve sales performance.
