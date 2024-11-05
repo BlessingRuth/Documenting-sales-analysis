@@ -5,7 +5,7 @@
 - [project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools Used](#tools-used)
-- [Data Cleaning/Preparation](#data-cleaning-preparation)
+- [Data Cleaning/Preparation](#data-cleaning/preparation)
 - 
 
 ### Project Overview 
@@ -16,7 +16,7 @@ This project focuses on analyzing the sales performance of a retail store. By ex
 ### Data sources 
 ---
 
-Sales data:The primary dataset used  for this analysis is "LITA Dataset.Xslx" file, containing detailed information about each sale made by the company. 
+Sales data:The primary dataset used  for this analysis is "LITA Salesdata.Xslx" file, containing detailed information about each sale made by the company. 
 
 ### Tools used 
 ---
@@ -32,5 +32,17 @@ Sales data:The primary dataset used  for this analysis is "LITA Dataset.Xslx" fi
   2. Delete duplicate data
   3. checked for missing values
   4. Data cleaning 
-  
+
+  ### Exploratory Data Analysis
+
+  EDA invloved exploring the sales data to answer key questions, such as:
+
+  -what is the overall sales trend?
+  - what is the total sales for each product?
+  - what is the highest selling product by revenue
+  - what is the number of sales transaction in each region
+  - Find the top 5 customers by total purchase amount
+  - Product with no sales in the last quarter
+  - The percentage of total sales conributed by each region
+  - The monthly sales total for the current year.
   
