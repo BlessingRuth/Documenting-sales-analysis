@@ -5,8 +5,9 @@
 - [project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools Used](#tools-used)
-- [Data Cleaning/Preparation](#data-cleaning/preparation)
-- 
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
 
 ### Project Overview 
 ---
@@ -25,19 +26,19 @@ Sales data:The primary dataset used  for this analysis is "LITA Salesdata.Xslx" 
 - Sql Server - Data Analysis [Download here] (
 - Powerbi - Creating Reports - [Download here] (
 
-  ### Data cleaning/Preparation
+  ### Data cleaning and Preparation
 
   In the initial data preparation phase, we performed the following task:
   1. Data loading/Inspection
   2. Delete duplicate data
   3. checked for missing values
-  4. Data cleaning 
+  4. check for null values 
 
   ### Exploratory Data Analysis
 
   EDA invloved exploring the sales data to answer key questions, such as:
 
-  -what is the overall sales trend?
+  
   - what is the total sales for each product?
   - what is the highest selling product by revenue
   - what is the number of sales transaction in each region
@@ -45,4 +46,8 @@ Sales data:The primary dataset used  for this analysis is "LITA Salesdata.Xslx" 
   - Product with no sales in the last quarter
   - The percentage of total sales conributed by each region
   - The monthly sales total for the current year.
+
+ ### Data Analysis
+
+ 
   
