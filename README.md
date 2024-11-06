@@ -65,95 +65,76 @@ select * from [dbo].[VW_Sales_Data]
 ALTER TABLE[dbo].[SALES DATA]
 DROP COLUMN column11
 
-----Total sales for each product category---
-
+### 1.Total sales for each product category---
+```
 select product, sum (total_sales)as totalsale
 from [dbo].[VW_Sales_Data]
 group by product
-
+```
 select distinct product, sum (total_sales)as totalsale
 from [dbo].[VW_Sales_Data]
 group by product
 
------number of sales transactions in each region----
-
+### 2.number of sales transactions in each region----
+```
 select  region, count(Quantity) as numberofsales
 from [dbo].[VW_Sales_Data]
 group by region
-
------Highest selling product by total sales value---
-
+```
+### 3.Highest selling product by total sales value---
+```
 select top 1 product, sum (total_sales)as totalsale
 from [dbo].[VW_Sales_Data]
 group by product
 order by 2 desc
+```
 
-alter table [dbo].[SALES DATA]
-alter column quantity smallint
-
------Total revenue by product---
-
+### 4. Total revenue by product
+```
 select product, sum(quantity*unitprice) as revenue
 from [dbo].[VW_Sales_Data]
 group by product;
+```
 
-select COLUMN_NAME, DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS 
-WHERE TABLE_NAME= '[dbo].[VW_Sales_Data]'
-
-
-select max(Total_sales), PRODUCT
-FROM [dbo].[VW_Sales_Data]
-GROUP BY PRODUCT
-
----Monthly sales total by current year---
-
+### 5.Monthly sales total by current year
+```
 select OrderDate, sum(Total_sales) Total_MonthlySales
 from [dbo].[VW_Sales_Data]
 where OrderDate > '2023-12-31'
 group by OrderDate
 order by 2 desc
-
-
+```
+```
 select OrderDate, sum(Total_sales) Total_MonthlySales
 from [dbo].[VW_Sales_Data]
 where OrderDate like '2024%'
 group by OrderDate
 order by 2 desc
+```
 
-
----- Top 5 customers by Total purchase Amount---
+### 6.Top 5 customers by Total purchase Amount
+```
 select   TOP 5 sum(Total_sales) as Highest_sales , customer_id
 from [dbo].[VW_Sales_Data]
 group by customer_id
 ORDER BY 1 desc
+```
 
-select  sum(Total_sales), customer_id
-from [dbo].[VW_Sales_Data]
-group by customer_id
-ORDER BY 1 desc
-
-----percentage of total sales contributed by each region---
-
+### 7.percentage of total sales contributed by each region
+```
 select region, sum(Total_sales) as Sales_Total,
 (sum(Total_sales)*100/(select sum(Total_sales) from [dbo].[VW_Sales_Data])) as Sales_percentage
 from [dbo].[VW_Sales_Data]
 group by region
 order by Sales_Total
+```
 
- select region, 
-(sum(Total_sales)*100/(select sum(Total_sales) from [dbo].[VW_Sales_Data])) as Sales_percentage
-from [dbo].[VW_Sales_Data]
-group by region
-order by 2
-
- 
-
-----Identify products with no sales in the last quarter----
-
+### 8.Identify products with no sales in the last quarter----
+```
 select product,Total_sales
 from [dbo].[VW_Sales_Data]
 where Total_sales = 0  and OrderDate between '2024-05-31' and '2024-08-31'
-
+```
  
 
  
