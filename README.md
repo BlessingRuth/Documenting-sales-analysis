@@ -9,6 +9,7 @@
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
 - [Insights](#insights)
+- [Recommendation](#recommendation)
 
 ### Project Overview 
 ---
@@ -132,12 +133,29 @@ from [dbo].[VW_Sales_Data]
 where Total_sales = 0  and OrderDate between '2024-05-31' and '2024-08-31'
 ```
 
- ### Insights 
-After critical analyzes of the sales trend and overall performance, we were able to draw conclusions and understand the data. The following are insights gotten from the analyzes.
+### Powerbi Dashboard visualization
 
- -The total revenue made from all products is "$2,101,090.00" which is decent amount for the comapny of that capacity and the average revenue being " 211.78"
-
+we were able to visualize some of our analyzes with powerbi dashboard for deeper insights. 
 
  ![Screenshot 2024-11-07 162135](https://github.com/user-attachments/assets/129c9168-5bc6-4150-94dd-a1d554233822)
 
-  
+
+
+ ### Insights 
+After critical analyzes of the sales trend and overall performance, we were able to draw conclusions and understand the data. The following are insights gotten from the analyzes.
+- The count of total quantity of product sold is "68,461"
+ -The total revenue made from all products is "$2,101,090.00" which is decent amount for the comapny of that capacity and the average revenue being " 211.78". 
+ _ The product with the highest revenue is shoes, followed closely by shirt and hat, while gloves, Jackets and socks are the lowest. This gives us an understanding that our customers priotize items that are fashionable over items that prevent colds and harmattan. The weather would make customers not to really buy jackets, shoes and socks as they prevent cold and they country is more sunny than chilly.The items are bought in just few times there is cold, which is the reason for the low sales from them.
+ - Among the four regions"South, East, North and West", South gave us the most revenue making up "44%" of the total revenue, East gave us "23%", North gave us "18%" while West gave us "14%" of the revenue. This analysis shows the huge gap in revenue made by the south region as compared to other regions.
+ - South sold the most quantity of products. 
+ - we foujd out that there are no period where we recorded zero sales. Products were sold every month, no matter how little.
+ - The analysis and visualization showed that the month of february had the highest sales,the first two quarter of the year gave us almost the same revenue while the last quarter gave us the lowest revenue.The sales gave a huge shoot up in february, making a big difference compare to other months in the first two quarters.
+
+   ### Recommendation
+   - They should invest more in advertisement and branding to bring in more sales. Though the revenue made is on the safe side and shows the comapny is growing but they can always generate more. 
+
+   - The company should reduce the quantity being produced for "Gloves, Jacket and Socks" since the demand for it is quite low and they should always have in stocks the products that are in higher demand "Shoes, Shirts, Gloves".
+   -  There should be more investment in regions other than South, reasons for the growth in the south should be studied and implemented in other regions. some factors that maybe affecting the low performance in the regions, which maybe looked into are; Location of the company, branding in those regions, staff perfomance, Advertisement and awareness of the brands in those regions.
+   -  Products should be produced more in the first two quarter of the year especially in february and less produced in the last quarter as the demand is low. 
+
+ 
