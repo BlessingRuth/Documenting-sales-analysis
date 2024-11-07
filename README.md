@@ -59,15 +59,7 @@ Sales data:The primary dataset used  for this analysis is "LITA Salesdata.Csv" f
 
  ### SQL Analysis
 
-  create view VW_Sales_Data
-as
-SELECT Distinct * FROM[dbo].[SALES DATA]
-
-select * from [dbo].[VW_Sales_Data]
-
-ALTER TABLE[dbo].[SALES DATA]
-DROP COLUMN column11
-
+  
 ### 1.Total sales for each product category---
 ```
 select product, sum (total_sales)as totalsale
@@ -138,7 +130,10 @@ select product,Total_sales
 from [dbo].[VW_Sales_Data]
 where Total_sales = 0  and OrderDate between '2024-05-31' and '2024-08-31'
 ```
- 
 
- 
+ ### Insights 
+After critical analyzes of the sales trend and overall performance, we were able to draw conclusions and understand the data. The following are insights gotten from the analyzes.
+
+ -The total revenue made from all products is "$2,101,090.00" which is decent amount for the comapny of that capacity and the average revenue being " 211.78"
+ - 
   
