@@ -137,6 +137,6 @@ After critical analyzes of the sales trend and overall performance, we were able
  -The total revenue made from all products is "$2,101,090.00" which is decent amount for the comapny of that capacity and the average revenue being " 211.78"
 
 
- ![Screenshot 2024-11-07 171816](https://github.com/user-attachments/assets/68da3763-ff52-4bd1-81b6-686914ae28bf)
+ ![Screenshot 2024-11-07 162135](https://github.com/user-attachments/assets/129c9168-5bc6-4150-94dd-a1d554233822)
 
   
