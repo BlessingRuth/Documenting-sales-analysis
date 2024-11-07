@@ -53,11 +53,11 @@ Sales data:The primary dataset used  for this analysis is "LITA Salesdata.Csv" f
 - Top performing product: products were analyzed to know our best selling products, regions that pulled the best sales, Months that had the most revenue. This analyzes was done with pivot table by summarising our data.
 - Metrics: we calculated metrics such as average sales per each product.
 
+  ![Screenshot 2024-11-06 104238](https://github.com/user-attachments/assets/1e0b9ac9-9958-45be-bf6d-b0329bfe4145)
   
+![Screenshot 2024-11-06 130957](https://github.com/user-attachments/assets/7a4f8207-a079-4b53-b4e1-beca6dfa51aa)
 
-![Screenshot 2024-11-06 104238](https://github.com/user-attachments/assets/1e0b9ac9-9958-45be-bf6d-b0329bfe4145)
-
-  ### SQL Analysis
+ ### SQL Analysis
 
   create view VW_Sales_Data
 as
