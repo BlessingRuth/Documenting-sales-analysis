@@ -135,5 +135,8 @@ where Total_sales = 0  and OrderDate between '2024-05-31' and '2024-08-31'
 After critical analyzes of the sales trend and overall performance, we were able to draw conclusions and understand the data. The following are insights gotten from the analyzes.
 
  -The total revenue made from all products is "$2,101,090.00" which is decent amount for the comapny of that capacity and the average revenue being " 211.78"
- - 
+
+
+ ![Screenshot 2024-11-07 171816](https://github.com/user-attachments/assets/68da3763-ff52-4bd1-81b6-686914ae28bf)
+
   
