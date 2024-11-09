@@ -48,7 +48,9 @@ Sales data:The primary dataset used  for this analysis is "LITA Salesdata.Csv" f
 
 - Excel - Data cleaning and Analysis [*Download here*](https://www.microsoft.com/en-ng/)
 - Sql Server - Data Analysis [Download here] (
-- Powerbi - Creating Reports - [Download here] (
+- Powerbi - Visualization and building dashboard Reports -
+   [*Download here*] (https://powerbi.microsoft.com/desktop/)
+
 
   ### Data cleaning and Preparation
 ---
