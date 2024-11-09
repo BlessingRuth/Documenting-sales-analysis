@@ -3,6 +3,7 @@
 ### Table of content 
 
 - [project Overview](#project-overview)
+- [Data description](#data-description)
 - [Data Sources](#data-sources)
 - [Tools Used](#tools-used)
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
@@ -10,7 +11,6 @@
 - [Data Analysis](#data-analysis)
 - [Insights](#insights)
 - [Recommendation](#recommendation)
-- [Data description](#data-description)
 
 ### Project Overview 
 ---
