@@ -20,13 +20,20 @@ This project focuses on analyzing the sales performance of a retail store. By ex
 ---
 
 -OrderID: A distinct identifier assigned to each order.
+
 -CustomerId: A distinct identifier for customers.
+
 -Product: Items being sold
+
 -Region: The geographical location of each customer. 
+
 -OrderDate: The date each order was made.
+
 -Quantity: The number of items purchased.
+
 -UnitPrice: The cost price of each product.
 -Total Sales: The total sales generated from each product. 
+
 -Revenue: The total revenue generated from each product sold.  
 
 
