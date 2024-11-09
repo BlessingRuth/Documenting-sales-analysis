@@ -24,7 +24,7 @@ This project focuses on analyzing the sales performance of a retail store. By ex
 
 -CustomerId: A distinct identifier for customers.
 
--Product: Items being sold
+-Product: Items being sold.
 
 -Region: The geographical location of each customer. 
 
