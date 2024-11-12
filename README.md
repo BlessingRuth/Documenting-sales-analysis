@@ -168,20 +168,25 @@ we were able to visualize some of our analyzes with powerbi dashboard for deeper
  ### Insights
  ---
 After critical analyzes of the sales trend and overall performance, we were able to draw conclusions and understand the data. The following are insights gotten from the analyzes.
-- The count of total quantity of product sold is "68,461"
- -The total revenue made from all products is "$2,101,090.00" which is decent amount for the comapny of that capacity and the average revenue being " 211.78". 
- _ The product with the highest revenue is shoes, followed closely by shirt and hat, while gloves, Jackets and socks are the lowest. This gives us an understanding that our customers priotize items that are fashionable over items that prevent colds and harmattan. The weather would make customers not to really buy jackets, shoes and socks as they prevent cold and they country is more sunny than chilly.The items are bought in just few times there is cold, which is the reason for the low sales from them.
- - Among the four regions"South, East, North and West", South gave us the most revenue making up "44%" of the total revenue, East gave us "23%", North gave us "18%" while West gave us "14%" of the revenue. This analysis shows the huge gap in revenue made by the south region as compared to other regions.
- - South sold the most quantity of products. 
- - we foujd out that there are no period where we recorded zero sales. Products were sold every month, no matter how little.
- - The analysis and visualization showed that the month of february had the highest sales,the first two quarter of the year gave us almost the same revenue while the last quarter gave us the lowest revenue.The sales gave a huge shoot up in february, making a big difference compare to other months in the first two quarters.
+Here’s a more professional summary of your key points:
+
+- A total of 68,461 products were sold, generating a revenue of $2,101,090.00. This amount is considered substantial for a company of this size, with an average revenue of $211.78 per product.
+- The highest revenue-generating product is shoes, followed by shirts and hats. Conversely, gloves, jackets, and socks have the lowest sales. This trend indicates that customers prioritize fashionable items over those designed for warmth, likely due to the predominantly sunny weather, which reduces the demand for cold-weather apparel.
+- Revenue distribution across four regions is as follows: the South contributed 44% of total revenue, the East 23%, the North 18%, and the West 14%. This data highlights a significant revenue gap between the South and the other regions.
+- The South also recorded the highest quantity of products sold.
+- Notably, there were no months with zero sales; products were sold consistently throughout the year.
+- The analysis revealed that February had the highest sales figures, while the first two quarters of the year showed similar revenue levels. The last quarter recorded the lowest sales, with a significant spike in February compared to other months in the first half of the year.
+
 
    ### Recommendation
    ---
-   - They should invest more in advertisement and branding to bring in more sales. Though the revenue made is on the safe side and shows the comapny is growing but they can always generate more. 
+ Here’s a more professional version of your suggestions:
 
-   - The company should reduce the quantity being produced for "Gloves, Jacket and Socks" since the demand for it is quite low and they should always have in stocks the products that are in higher demand "Shoes, Shirts, Gloves".
-   -  There should be more investment in regions other than South, reasons for the growth in the south should be studied and implemented in other regions. some factors that maybe affecting the low performance in the regions, which maybe looked into are; Location of the company, branding in those regions, staff perfomance, Advertisement and awareness of the brands in those regions.
-   -  Products should be produced more in the first two quarter of the year especially in february and less produced in the last quarter as the demand is low. 
+- The company should enhance its investment in advertising and branding to boost sales. While the current revenue is stable and indicative of growth, there is potential for greater revenue generation.
 
+- There should be increasement in the production quantities for gloves, jackets, and socks, as demand for these items is relatively low. Instead, they should ensure that products with higher demand, such as shoes and shirts, are adequately stocked.
+
+- There should be increased investment in regions outside the South. Analyzing the factors contributing to growth in the South could provide insights that can be applied to other regions. Key areas to investigate may include the company’s location, branding strategies in those regions, staff performance, and the effectiveness of advertising and brand awareness initiatives.
+
+- Production should be ramped up during the first two quarters of the year, particularly in February, while reducing output in the last quarter when demand tends to be lower. 
  
