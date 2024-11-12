@@ -47,7 +47,7 @@ Sales data:The primary dataset used  for this analysis is "LITA Salesdata.Csv" f
 ---
 
 - Excel - Data cleaning and Analysis [*Download here*](https://www.microsoft.com/en-ng/)
-- Sql Server - Data Analysis [Download here] (
+- Sql Server - Data Analysis [*Download here*](https://www.microsoft.com/EN-US/SQL-SERVER/SQL-SERVER-DOWNLOADS)
 - Powerbi - Visualization and building dashboard Reports 
   [*Download here*](https://powerbi.microsoft.com/desktop/)
 
@@ -182,11 +182,11 @@ Here’s a more professional summary of your key points:
    ---
  Here’s a more professional version of your suggestions:
 
-- The company should enhance its investment in advertising and branding to boost sales. While the current revenue is stable and indicative of growth, there is potential for greater revenue generation.
+-While the current revenue is stable and indicative of growth, there is potential for greater revenue generation. The company should enhance its investment in advertising and branding to boost sales. 
 
-- There should be increasement in the production quantities for gloves, jackets, and socks, as demand for these items is relatively low. Instead, they should ensure that products with higher demand, such as shoes and shirts, are adequately stocked.
+- There should be reduction in the production quantities for gloves, jackets, and socks, as demand for these items is relatively low. Instead, they should ensure that products with higher demand, such as shoes and shirts, are adequately stocked.
 
 - There should be increased investment in regions outside the South. Analyzing the factors contributing to growth in the South could provide insights that can be applied to other regions. Key areas to investigate may include the company’s location, branding strategies in those regions, staff performance, and the effectiveness of advertising and brand awareness initiatives.
 
-- Production should be ramped up during the first two quarters of the year, particularly in February, while reducing output in the last quarter when demand tends to be lower. 
+- Production should be increased up during the first two quarters of the year, particularly in February, while reducing output in the last quarter when demand tends to be lower. 
  
